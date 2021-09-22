@@ -14,5 +14,5 @@ The session will walk through several topics like:
 The events also tries to provide an over-view of Hacktober Fest'21 for the interested and upcoming Open Source enthusiasts, thereby fostering greater contribution by and to the community
 
 ## List Of Contributors:
-- [whokilleddb](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [whokilleddb](https://whokilleddb.github.io)
 - [Dsantra92](https://github.com/Dsantra92)
