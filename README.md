@@ -11,8 +11,9 @@ The session will walk through several topics like:
 - Version Control
 - How to use git and github
 
-The events also tries to provide an over-view of Hacktober Fest'21 for the interested and upcoming Open Source enthusiasts, thereby fostering greater contribution by and to the community
+The events also tries to provide an over-view of Hacktober Fest'21 for the interested and upcoming Open Source enthusiasts, thereby fostering greater contribution by and to the community.
 
 ## List Of Contributors:
 - [whokilleddb](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Dsantra92](https://github.com/Dsantra92)
+- [justAcoderguy](https://github.com/justAcoderguy)
