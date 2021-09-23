@@ -16,3 +16,4 @@ The events also tries to provide an over-view of Hacktober Fest'21 for the inter
 ## List Of Contributors:
 - [whokilleddb](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Dsantra92](https://github.com/Dsantra92)
+-[srijanpal1405](https://github.com/srijanpal1405)
