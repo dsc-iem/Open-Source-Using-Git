@@ -17,3 +17,5 @@ The events also tries to provide an over-view of Hacktober Fest'21 for the inter
 - [whokilleddb](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Dsantra92](https://github.com/Dsantra92)
 - [Pritam Kundu](https://warmachine028.github.io)
+- [RickAstley](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
